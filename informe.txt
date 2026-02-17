@@ -1,0 +1,114 @@
+📊 INFORME DE ANÁLISIS DEMOGRÁFICO MUNDIAL
+
+1️⃣ Descripción de los datasets
+Se trabajó con cuatro archivos independientes:
+
+Archivo de Países: contiene Código / País / Continentes.
+Archivo de Población: contiene País / Población.
+Archivo de Mortalidad: contiene País / Mortalidad de Vida.
+Archivo de Esperanza de Vida: contiene País / Esperanza de Vida.
+
+
+2️⃣ Proceso de limpieza y preparación de datos
+
+Antes de realizar el análisis se llevaron a cabo las siguientes tareas:
+
+    Inspección y eliminación de registros duplicados.
+    Verificación y control de valores nulos.
+    Unificación de los cuatro datasets en uno solo utilizando como clave común el nombre del país.
+    El dataset final consolidado contiene las siguientes columnas:
+
+Código → str
+País → str
+Continentes → str
+Población → int64
+Mortalidad de Vida → float64
+Esperanza de Vida → float64
+
+
+3️⃣ Análisis estadístico descriptivo
+
+A partir del método describe() se obtuvieron las siguientes conclusiones:
+
+Se analizaron 216 países.
+La población promedio es de aproximadamente 34 millones de habitantes, aunque existe una gran variación:
+    Mínimo: 11.097 habitantes
+    Máximo: 1.378.665.000 habitantes
+    Esto indica una fuerte desigualdad demográfica entre países.
+La mortalidad promedio es de 35.8, con valores que oscilan entre:
+    Mínimo: 2.29
+    Máximo: 191.19
+La esperanza de vida promedio es de 72 años, con:
+    Mínimo: 50.2 años
+    Máximo: 89.5 años
+
+La mediana indica que la mayoría de los países tienen menos de 6 millones de habitantes y una esperanza de vida cercana a 75 años.
+
+
+
+4️⃣ Análisis de correlación
+
+Se evaluó la relación entre las variables principales:
+
+Población y Mortalidad: 0.037
+→ Correlación prácticamente nula. No existe relación significativa.
+
+Población y Esperanza de Vida: -0.018
+→ Correlación casi inexistente. La cantidad de habitantes no influye directamente en la esperanza de vida.
+
+Mortalidad y Esperanza de Vida: -0.859
+→ Correlación negativa muy fuerte.
+A medida que aumenta la mortalidad, la esperanza de vida disminuye significativamente.
+
+Conclusión del análisis de correlación
+
+La única relación fuerte encontrada es entre mortalidad y esperanza de vida, con una relación inversa muy marcada.
+La población no muestra relación significativa con las otras variables analizadas.
+
+5️⃣ Distribución de la población mundial
+
+Población total mundial:
+7.413.672.933 habitantes
+
+Distribución por continente:
+
+Continente	Población	% del total
+Asia	    4.539.589.877	61.23%
+África	    1.218.361.843	16.43%
+América	    997.199.945	13.45%
+Europa	    618.395.817	8.34%
+Oceanía	    40.125.451	0.54%
+
+
+Conclusión:
+    Asia concentra más del 50% de la población mundial, representando aproximadamente el 61% del total.
+
+6️⃣ Países más poblados
+
+Top 5 países con mayor población:
+
+China – 1.378.665.000
+India – 1.324.171.354
+United States – 323.127.513
+Indonesia – 261.115.456
+Brazil – 207.652.865
+
+
+Observación:
+3 de los 5 países más poblados pertenecen a Asia, mientras que los otros 2 pertenecen al continente americano.
+
+
+
+📌 Conclusión General
+
+El análisis demuestra que:
+
+    La población mundial está altamente concentrada en Asia.
+
+    La variable más determinante en relación con la esperanza de vida es la mortalidad.
+
+    No existe relación significativa entre el tamaño poblacional y la esperanza de vida.
+
+    Existen fuertes desigualdades demográficas entre países.
+
+    Este estudio permite comprender mejor la distribución poblacional mundial y las relaciones entre variables demográficas clave.

@@ -1,0 +1,217 @@
+Código,País,Continentes,Población,Mortalidad de Vida,Esperanza de Vida
+DZA,Algeria,Africa,40606052,31.0,76.8
+AGO,Angola,Africa,28813463,191.19,56.0
+BEN,Benin,Africa,10872298,85.0,61.9
+BWA,Botswana,Africa,2250260,54.58,54.5
+BFA,Burkina Faso,Africa,18646433,97.57,55.5
+BDI,Burundi,Africa,10524117,69.29,60.5
+CPV,Cabo Verde,Africa,539560,47.77,72.1
+CMR,Cameroon,Africa,23439189,68.26,58.5
+CAF,Central African Republic,Africa,4594621,91.0,52.3
+TCD,Chad,Africa,14452543,93.82,50.2
+COM,Comoros,Africa,795601,74.93,64.2
+COD,Democratic Republic of the Congo,Africa,78736153,94.69,57.3
+COG,Republic of the Congo,Africa,5125821,93.86,59.3
+CIV,Côte d'Ivoire,Africa,23695919,90.83,58.7
+DJI,Djibouti,Africa,942333,104.13,63.2
+EGY,Egypt,Africa,95688681,32.59,72.7
+GNQ,Equatorial Guinea,Africa,1221490,85.13,64.2
+ETH,Ethiopia,Africa,102403196,95.32,62.2
+GAB,Gabon,Africa,1979786,53.64,52.1
+GMB,The Gambia,Africa,2038501,72.02,64.9
+GHA,Ghana,Africa,28206728,51.43,66.6
+GIN,Guinea,Africa,12395924,90.37,60.6
+GNB,Guinea-Bissau,Africa,1815698,107.17,50.6
+KEN,Kenya,Africa,48461567,61.47,64.0
+LSO,Lesotho,Africa,2203821,84.23,53.0
+LBR,Liberia,Africa,4613823,128.87,59.0
+LBY,Libya,Africa,6293253,24.6,76.5
+MDG,Madagascar,Africa,24894551,76.83,65.9
+MWI,Malawi,Africa,18091575,103.32,61.2
+MLI,Mali,Africa,17994837,116.79,55.8
+MRT,Mauritania,Africa,4301018,70.89,63.0
+MUS,Mauritius,Africa,1263473,15.03,75.6
+MAR,Morocco,Africa,35276786,41.62,76.9
+MOZ,Mozambique,Africa,28829476,130.79,53.3
+NAM,Namibia,Africa,2479713,48.98,63.6
+NER,Niger,Africa,20672987,121.69,55.5
+NGA,Nigeria,Africa,185989640,98.8,53.4
+RWA,Rwanda,Africa,11917508,91.23,60.1
+STP,Sao Tome and Principe,Africa,199910,43.11,64.9
+SEN,Senegal,Africa,15411614,55.51,61.7
+SYC,Seychelles,Africa,94677,15.53,74.7
+SLE,Sierra Leone,Africa,7396190,143.64,58.2
+SOM,Somalia,Africa,14317996,116.7,52.4
+ZAF,South Africa,Africa,55908865,61.81,63.1
+SDN,Sudan,Africa,39578828,62.5,64.1
+SSD,South Sudan,Africa,12230730,58.1,56.8
+SWZ,Swaziland,Africa,1343098,69.27,51.6
+TZA,Tanzania,Africa,55572201,98.54,62.2
+TGO,Togo,Africa,7606374,66.61,65.0
+TUN,Tunisia,Africa,11403248,24.77,76.1
+UGA,Uganda,Africa,41487965,67.83,55.4
+ZMB,Zambia,Africa,16591390,88.29,52.5
+ZWE,Zimbabwe,Africa,16150362,67.69,58.0
+AFG,Afghanistan,Asia,34656032,163.07,51.3
+BHR,Bahrain,Asia,1425171,17.27,78.9
+BGD,Bangladesh,Asia,162951560,62.6,73.2
+BTN,Bhutan,Asia,797765,100.44,70.1
+BRN,Brunei,Asia,423196,12.61,77.2
+KHM,Cambodia,Asia,15762370,71.48,64.5
+CHN,China,Asia,1378665000,24.18,75.5
+HKG,Hong Kong,Asia,7346700,2.97,82.9
+IND,India,Asia,1324171354,56.29,68.5
+IDN,Indonesia,Asia,261115456,35.6,72.7
+IRN,Iran,Asia,80277428,41.58,71.4
+IRQ,Iraq,Asia,37202572,50.25,74.9
+ISR,Israel,Asia,8547100,7.03,82.4
+JPN,Japan,Asia,126994511,3.26,85.0
+JOR,Jordan,Asia,9455802,17.35,74.6
+KAZ,Kazakhstan,Asia,17797032,29.21,70.8
+PRK,North Korea,Asia,25368620,24.04,70.4
+KOR,South Korea,Asia,51245707,7.05,82.4
+KWT,Kuwait,Asia,4052584,9.95,78.0
+KGZ,Kyrgyzstan,Asia,6082700,35.64,70.7
+LAO,Laos,Asia,6758353,85.22,64.3
+LBN,Lebanon,Asia,6006668,24.52,77.6
+MAC,Macau,Asia,612167,4.39,84.5
+MYS,Malaysia,Asia,31187265,17.7,75.0
+MDV,Maldives,Asia,417492,56.52,75.6
+MNG,Mongolia,Asia,3027398,53.79,69.6
+MMR,Myanmar,Asia,52885223,38.5,66.6
+NPL,Nepal,Asia,28982771,66.98,70.7
+OMN,Oman,Asia,4424762,19.51,75.5
+PAK,Pakistan,Asia,193203476,72.44,67.7
+PHL,Philippines,Asia,103320222,23.51,69.2
+QAT,Qatar,Asia,2569804,18.61,78.7
+RUS,Russia,Asia,144342396,15.39,70.3
+SAU,Saudi Arabia,Asia,32275687,13.24,75.3
+SGP,Singapore,Asia,5607283,2.29,85.0
+LKA,Sri Lanka,Asia,21203000,14.35,76.8
+SYR,Syria,Asia,18430453,29.53,74.9
+TJK,Tajikistan,Asia,8734951,110.76,67.7
+THA,Thailand,Asia,68863514,20.48,74.7
+TLS,Timor-Leste,Asia,1268671,35.1,68.1
+TUR,Turkey,Asia,79512426,41.04,74.8
+TKM,Turkmenistan,Asia,5662544,73.08,70.1
+ARE,United Arab Emirates,Asia,9269612,14.51,77.5
+UZB,Uzbekistan,Asia,31848200,71.1,73.8
+VNM,Vietnam,Asia,92701100,25.95,73.4
+PSE,West Bank,Asia,4551566,19.62,75.0
+YEM,Yemen,Asia,27584213,61.5,65.5
+ALB,Albania,Europe,2876101,21.52,78.3
+AND,Andorra,Europe,77281,4.05,82.8
+ARM,Armenia,Europe,2924816,23.28,74.6
+AUT,Austria,Europe,8747358,4.66,81.5
+AZE,Azerbaijan,Europe,9762274,81.74,72.5
+BLR,Belarus,Europe,9507120,13.37,72.7
+BEL,Belgium,Europe,11348159,4.68,81.0
+BIH,Bosnia and Herzegovina,Europe,3516816,21.05,76.7
+BGR,Bulgaria,Europe,7127822,20.55,74.5
+GGY,Guernsey,Europe,164541,4.71,82.5
+HRV,Croatia,Europe,4170600,6.84,75.9
+CYP,Cyprus,Europe,1170125,7.18,78.7
+CZE,Czech Republic,Europe,10561633,3.93,78.6
+DNK,Denmark,Europe,5731118,4.56,79.4
+EST,Estonia,Europe,1316481,7.87,76.7
+FRO,Faroe Islands,Europe,49117,6.24,80.4
+FIN,Finland,Europe,5495096,3.57,80.9
+FRA,France,Europe,66896109,4.26,81.8
+GEO,Georgia,Europe,3719300,18.59,76.2
+DEU,Germany,Europe,82667685,4.16,80.7
+GIB,Gibraltar,Europe,34408,5.13,79.4
+GRC,Greece,Europe,10746740,5.53,80.5
+HUN,Hungary,Europe,9817958,8.57,75.9
+ISL,Iceland,Europe,334252,3.31,83.0
+IRL,Ireland,Europe,4773095,5.39,80.8
+IMN,Isle of Man,Europe,83737,5.93,81.2
+ITA,Italy,Europe,60600590,5.94,82.2
+XKX,Kosovo,Europe,1816200,11.4,71.6
+LVA,Latvia,Europe,1960424,9.55,74.5
+LIE,Liechtenstein,Europe,37666,4.7,81.9
+LTU,Lithuania,Europe,2872298,6.89,74.9
+LUX,Luxembourg,Europe,582972,4.81,82.3
+MKD,Macedonia,Europe,2081206,10.09,76.2
+MLT,Malta,Europe,436947,3.89,80.4
+MDA,Moldova,Europe,3552000,40.42,70.7
+MCO,Monaco,Europe,38499,5.43,89.5
+NLD,Netherlands,Europe,17018408,5.04,81.3
+NOR,Norway,Europe,5232929,3.7,81.8
+POL,Poland,Europe,37948016,8.51,77.6
+PRT,Portugal,Europe,10324611,5.05,79.3
+ROU,Romania,Europe,19705301,26.43,75.1
+SMR,San Marino,Europe,33203,5.73,83.3
+SRB,Serbia,Europe,7057412,12.89,75.5
+SVK,Slovakia,Europe,5428704,7.41,77.1
+SVN,Slovenia,Europe,2064845,4.45,78.2
+ESP,Spain,Europe,46443959,4.42,81.7
+SWE,Sweden,Europe,9903122,2.77,82.1
+CHE,Switzerland,Europe,8372098,4.39,82.6
+UKR,Ukraine,Europe,45004645,20.34,71.8
+GBR,United Kingdom,Europe,65637239,5.16,80.7
+ATG,Antigua and Barbuda,America,100963,19.46,76.5
+BHS,The Bahamas,America,391232,25.21,72.4
+BRB,Barbados,America,284996,12.5,75.3
+BLZ,Belize,America,366954,25.69,68.7
+BMU,Bermuda,America,65331,8.53,81.3
+VGB,British Virgin Islands,America,30661,18.05,78.6
+CAN,Canada,America,36286425,4.75,81.9
+CYM,Cayman Islands,America,60765,8.19,81.2
+CRI,Costa Rica,America,4857274,9.95,78.6
+CUB,Cuba,America,11475982,6.33,78.7
+CUW,Curacao,America,159999,7.5,77.82
+DMA,Dominica,America,73543,14.15,77.0
+DOM,Dominican Republic,America,10648791,32.38,78.1
+SLV,El Salvador,America,6344722,25.1,74.7
+GRL,Greenland,America,56186,15.82,72.4
+GRD,Grenada,America,107317,14.62,74.3
+GUM,Guam,Oceania,162896,6.94,79.58
+GTM,Guatemala,America,16582469,35.93,72.3
+HTI,Haiti,America,10847334,73.45,63.8
+HND,Honduras,America,9112867,29.32,71.1
+JAM,Jamaica,America,2881355,12.36,73.6
+MEX,Mexico,America,127540423,20.91,75.9
+MNE,Montserrat,Europe,622781,7.35,74.4
+NIC,Nicaragua,America,6149928,29.11,73.2
+PAN,Panama,America,4034119,20.47,78.6
+PRI,Puerto Rico,America,3411307,8.24,79.4
+SXM,Sint Maarten,America,40005,8.1,78.1
+KNA,Saint Kitts and Nevis,America,54821,14.49,75.7
+LCA,Saint Lucia,America,178015,13.53,77.8
+MAF,Saint Pierre and Miquelon,America,31949,7.54,80.5
+VCT,Saint Vincent and the Grenadines,America,109643,14.78,75.3
+TTO,Trinidad and Tobago,America,1364962,24.31,72.9
+TCA,Turks and Caicos Islands,America,34900,15.67,79.8
+USA,United States,America,323127513,6.5,79.8
+VIR,Virgin Islands,America,102951,8.03,80.0
+ASM,American Samoa,Oceania,55599,9.27,75.4
+AUS,Australia,Oceania,24127159,4.69,82.2
+FJI,Fiji,Oceania,898760,12.62,72.7
+PYF,French Polynesia,Oceania,280208,8.44,77.2
+KIR,Kiribati,Oceania,114395,48.52,66.2
+MHL,Marshall Islands,Oceania,53066,29.45,73.1
+FSM,Micronesia,Oceania,104937,30.21,72.9
+NRU,Nauru,Oceania,13049,9.95,67.1
+NCL,New Caledonia,Oceania,278000,7.72,77.7
+NZL,New Zealand,Oceania,4692700,5.85,81.2
+MNP,Northern Mariana Islands,Oceania,55023,7.11,78.0
+PLW,Palau,Oceania,21503,14.84,73.1
+PNG,Papua New Guinea,Oceania,8084991,51.45,67.2
+WSM,Samoa,Oceania,195125,27.71,73.7
+SLB,Solomon Islands,Oceania,599419,21.29,75.3
+TON,Tonga,Oceania,107122,12.62,76.2
+TUV,Tuvalu,Oceania,11097,20.03,66.5
+VUT,Vanuatu,Oceania,270402,55.16,73.4
+ARG,Argentina,America,43847430,15.18,77.1
+ABW,Aruba,America,104822,5.89,76.8
+BOL,Bolivia,America,10887882,53.11,69.2
+BRA,Brazil,America,207652865,29.61,73.8
+CHL,Chile,America,17909754,8.8,78.8
+COL,Colombia,America,48653419,20.97,75.7
+ECU,Ecuador,America,16385068,23.66,76.8
+GUY,Guyana,America,773303,33.26,68.4
+PRY,Paraguay,America,6725308,25.63,77.2
+PER,Peru,America,31773839,31.94,73.7
+SUR,Suriname,America,558368,23.57,72.2
+URY,Uruguay,America,3444006,11.95,77.2
+VEN,Venezuela,America,31568179,22.2,75.8
